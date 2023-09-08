@@ -7,4 +7,5 @@ Database: MongoDB
 
 # Getting Started  
 
-Open api folder and client folder, use "yarn start" to start back-end and front-end separately
+use "yarn" to install all dependencies first   
+Then open api folder and client folder, use "yarn start" to start back-end and front-end separately
